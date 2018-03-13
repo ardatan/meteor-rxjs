@@ -12,6 +12,6 @@
     "zone.js": "0.8.17"
   },
   "devDependencies": {
-    "linklocal": "2.8.1"
+    "linklocal": "2.8.2"
   }
 }
